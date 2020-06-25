@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#cf0a2c</color>
+    <color name="colorPrimaryDark">#cf0a2c</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="base_black_light_50">#808080</color>
+    <color name="base_white">#ffffff</color>
+    <color name="window">@color/base_white</color>
+    <color name="base_transparent">#00000000</color>
+    <color name="cardview_light_background">#FFFFFFFF</color>
+    <color name="base_black">#000000</color>
+    <color name="base_gray">#333333</color>
+    <color name="base_red">#cf0a2c</color>
+    <color name="red_light">#FD3246</color>
+    <color name="base_blue">#5da0c7</color>
+    <color name="wine">#CC4865</color>
+    <color name="blue">#003893</color>
+    <color name="light_gray_s">#809c9c9c</color>
+
+    <color name="base_background_fragsettings">#ddd</color>
+</resources>

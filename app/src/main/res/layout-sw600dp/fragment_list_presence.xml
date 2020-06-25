@@ -1,0 +1,68 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:id="@+id/containerlistasistance">
+
+    <ScrollView
+        android:id="@+id/layout"
+        android:layout_height="0dp"
+        android:layout_weight="9"
+        android:layout_width="match_parent"
+        android:scrollbars="vertical"
+        android:scrollbarStyle="outsideInset"
+        android:fillViewport="true">
+        
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="32dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="Movimientos"
+                android:textAlignment="center"
+                android:textAppearance="@style/TextAppearance.AppCompat"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="20dp"
+                    android:text="Turno: "
+                    android:textAlignment="viewStart"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/tvTurn"
+                    android:layout_width="271dp"
+                    android:layout_height="match_parent"
+                    android:layout_marginTop="20dp"
+                    android:text=""
+                    android:textAlignment="viewStart" />
+            </LinearLayout>
+
+            <TableLayout
+                android:id="@+id/table"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/floating_label_bottom_spacing"
+                android:orientation="horizontal"
+                android:stretchColumns="0,1" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

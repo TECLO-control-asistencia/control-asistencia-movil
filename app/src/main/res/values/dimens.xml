@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="menu_icon_size">90dp</dimen>
+    <dimen name="map_size_x">150dp</dimen>
+    <dimen name="map_size_y">180dp</dimen>
+
+    <dimen name="buttons_width">180dp</dimen>
+
+    <dimen name="text_size_tv_title_register">24sp</dimen>
+    <dimen name="text_size_et_register">20sp</dimen>
+    <dimen name="text_size_screen_title">20sp</dimen>
+    <dimen name="text_size_screen_subtitle">16sp</dimen>
+
+    <dimen name="space_1dp">1dp</dimen>
+    <dimen name="space_2dp">2dp</dimen>
+    <dimen name="space_4dp">4dp</dimen>
+    <dimen name="space_8dp">8dp</dimen>
+    <dimen name="space_2x5">10dp</dimen>
+    <dimen name="space_3x5">15dp</dimen>
+    <dimen name="space_4x5">20dp</dimen>
+    <dimen name="space_16dp">16dp</dimen>
+    <dimen name="space_24dp">24dp</dimen>
+    <dimen name="space_32dp">32dp</dimen>
+    <dimen name="space_64dp">64dp</dimen>
+    <dimen name="size_dash_line">8dp</dimen>
+    <dimen name="gap_dash_line">4dp</dimen>
+    <dimen name="custom_tab_layout_height">32dp</dimen>
+    <dimen name="tab_text_size">14sp</dimen>
+    <dimen name="horizontal_card_size">320dp</dimen>
+    <dimen name="login_scrollayout_height">0dp</dimen>
+
+    <dimen name="emptytop_barsize_small">30dp</dimen>
+    <dimen name="recyclerview_pictures_barsize_small">210dp</dimen>
+    <dimen name="left_offset">61dp</dimen>
+    <dimen name="card_width">148dp</dimen>
+    <dimen name="card_corner_radius">10dp</dimen>
+
+    <dimen name="space_spinner_to_top">25dp</dimen>
+
+    <dimen name="space_to_top_side_small">12dp</dimen>
+    <dimen name="space_to_bottom_side_small">12dp</dimen>
+    <dimen name="space_to_right_side_small">12dp</dimen>
+    <dimen name="space_to_left_side_small">12dp</dimen>
+
+    <dimen name="space_to_top_side_medium">20dp</dimen>
+    <dimen name="space_to_bottom_side_medium">20dp</dimen>
+    <dimen name="space_to_right_side_medium">20dp</dimen>
+    <dimen name="space_to_left_side_medium">20dp</dimen>
+
+
+    <dimen name="space_to_top_side_large">20dp</dimen>
+    <dimen name="space_to_bottom_side_large">20dp</dimen>
+    <dimen name="space_to_right_side_large">20dp</dimen>
+    <dimen name="space_to_left_side_large">20dp</dimen>
+    <dimen name="title1">24sp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="login_mainlayout_margin">20dp</dimen>
+
+    <!-- Justification -->
+    <dimen name="just_text_size_moves">18sp</dimen>
+    <dimen name="just_margin_left">20dp</dimen>
+    <dimen name="just_margin_top">20dp</dimen>
+    <!-- Excuse Layout -->
+    <dimen name="margenes_fab">16dp</dimen>
+
+    <dimen name="title2">20sp</dimen>
+    <dimen name="title3">16sp</dimen>
+    <dimen name="title4">12sp</dimen>
+    <dimen name="title5">10sp</dimen>
+
+    <!--Moves Search -->
+    <dimen name="moves_text_size_">18sp</dimen>
+    <dimen name="moves_margin_top">20dp</dimen>
+    <dimen name="moves_table_width">343dp</dimen>
+    <dimen name="moves_table_heigth">383dp</dimen>
+
+    <!-- Settings Layout (Fragment) -->
+    <dimen name="profile_card_height">100dp</dimen>
+    <dimen name="card_profile_corner">2dp</dimen>
+    <dimen name="card_profile_margin">5dp</dimen>
+    <dimen name="card_profile_ctentpadding">5dp</dimen>
+    <dimen name="card_profile_image_height">55dp</dimen>
+    <dimen name="card_profile_usrtxt_padding_top">10dp</dimen>
+    <dimen name="card_logout_corner">2dp</dimen>
+    <dimen name="card_logout_margin">5dp</dimen>
+    <dimen name="card_logout_linlayout_padding">5dp</dimen>
+
+</resources>

@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Control de Asistencia</string>
+
+    <!-- General -->
+    <!--<string name="network_config_base_url" translatable="false">http://ext.teclo.mx/teclocdmxgc_v230r2_prod_api/</string>-->
+    <string name="network_config_base_url" translatable="false">http://172.18.44.100:9080/teclocdmxcasistencia_v240r1_prod_api/</string>
+    <!-- General -->
+    <string name="ok">Aceptar</string>
+
+    <!-- LogOut Dialog -->
+    <string name="title_dialog">Cerrar sesión</string>
+    <string name="description_dialog">¿Seguro que quieres salir?</string>
+    <string name="positive_label">Sí</string>
+    <string name="negative_label">No</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!--Login-->
+    <string name="input_user_hint">Usuario</string>
+    <string name="input_password_hint">Contraseña</string>
+    <string name="input_password_hint_confirm">Confirmar Contraseña</string>
+    <string name="button_login_text">Entrar</string>
+    <string name="login_dialog_message">Autenticando...</string>
+
+    <string name="txt_login_title">Control de Asistencia</string>
+
+    <string name="txt_rights">Derechos Reservados ©</string>
+    <string name="txt_teclo_blue">Teclo Mexicana</string>
+    <string name="txt_app_version">1.0.0</string>
+
+    <string name="password_invalid">Ingrese de 4 a 10 caracteres</string>
+    <string name="requirement_data_controls">Campo requerido</string>
+    <string name="requirement_data_toast">Verifique sus credenciales.</string>
+
+    <string name="log_out">Cerrar sesión</string>
+    <string name="ingresar_login">Ingresar</string>
+    <string name="user_log_name">Usuario logueado</string>
+
+    <!-- Load Message -->
+    <string name="load_message">Espere&#8230;</string>
+
+    <!-- Justificación -->
+    <string name="title_excuse">Justificación de Equipo</string>
+    <string name="txt_description">Descripción</string>
+    <string name="txt_turno">Turno: </string>
+    <string name="txt_moves">Movimientos</string>
+
+
+    <!-- Warning Messages -->
+    <string name="data_required">Campo requerido</string>
+
+    <!-- Error Messages -->
+    <string name="not_connected_server">No se pudo conectar al servidor</string>
+
+    <!-- Bottom Menu -->
+    <string name="title_search">Consulta</string>
+    <string name="title_presence">Asistencia</string>
+    <string name="title_settings">Configuraciones</string>
+
+    <!-- Settings Fragment -->
+    <string name="user_logged">NOMBRE DE USUARIO</string>
+    <string name="title_card_logout">Salir</string>
+
+
+    <string-array name="seleccione_array_sppiner">
+        <item>-Seleccione-</item>
+    </string-array>
+
+
+</resources>

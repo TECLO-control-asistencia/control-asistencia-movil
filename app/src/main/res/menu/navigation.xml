@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_asistance_register"
+        android:icon="@drawable/ic_precense_black"
+        android:title="@string/title_presence"
+        android:titleCondensed="idAsistanceRegister"/>
+
+    <item
+        android:id="@+id/navigation_consulta"
+        android:icon="@drawable/ic_update_black_24dp"
+        android:title="@string/title_search" />
+
+    <item
+        android:id="@+id/navigation_settings"
+        android:icon="@drawable/ic_settings_black"
+        android:title="@string/title_settings" />
+
+</menu>
